@@ -131,3 +131,4 @@ Añadimos una mecánica por la cual cada vez que el jugador alcanza o supera un 
 
 ### Demostración
 ![Demostración Ejercicio 7 y 8](https://github.com/guillrl1/P04_II_Delegados_Eventos/blob/main/P4_gifs/07.gif)
+![Demostración Ejercicio 7 y 8](https://github.com/guillrl1/P04_II_Delegados_Eventos/blob/main/P4_gifs/escena.png)
